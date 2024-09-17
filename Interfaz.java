@@ -4,6 +4,7 @@
  * CC2008
  * AUTOR: Denil José Parada Cabrera 24761
  * FECHA: 06/09/2024
+ * DESCRIPCION: Clase Interfaz encargada de la interaccion con el usuario
  */
 
  import java.util.ArrayList;

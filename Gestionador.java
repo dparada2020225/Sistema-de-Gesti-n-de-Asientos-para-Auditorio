@@ -4,6 +4,7 @@
  * CC2008
  * AUTOR: Denil José Parada Cabrera 24761
  * FECHA: 06/09/2024
+ * DESCRIPCION: Clase Gestionador encargada de gestionar las clases modelo
  */
 
  import java.util.ArrayList;

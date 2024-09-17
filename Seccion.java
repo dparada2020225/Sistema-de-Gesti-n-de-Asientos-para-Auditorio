@@ -4,6 +4,7 @@
  * CC2008
  * AUTOR: Denil José Parada Cabrera 24761
  * FECHA: 06/09/2024
+ * DESCRIPCION: Clase Seccion encargada de la representacion de la seccion
  */
 
  import java.util.Arrays;
